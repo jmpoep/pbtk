@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#-*- encoding: Utf-8 -*-
 from google.protobuf.descriptor_pb2 import FileDescriptorProto, DescriptorProto
 from collections import defaultdict, OrderedDict
 from re import sub

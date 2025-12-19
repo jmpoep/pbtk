@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#-*- encoding: Utf-8 -*-
 from urllib.parse import quote, quote_plus, unquote_plus, parse_qsl, urlencode
 from tempfile import TemporaryDirectory
 from subprocess import Popen, DEVNULL

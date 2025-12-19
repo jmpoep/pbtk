@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#-*- encoding: Utf-8 -*-
 from PyQt5.QtWidgets import QTreeWidgetItem, QLineEdit, QCheckBox, QAbstractSpinBox, QInputDialog, QMessageBox
 from PyQt5.QtCore import QUrl, Qt, pyqtSignal, QByteArray, QRegExp
 from PyQt5.QtWebEngineWidgets import QWebEngineView

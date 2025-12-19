@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#-*- encoding: Utf-8 -*-
 from PyQt5.QtWidgets import QApplication, QListWidgetItem, QDesktopWidget, QFileDialog, QInputDialog, QProgressDialog, QMessageBox, QFileSystemModel, QHeaderView
 from PyQt5.QtCore import Qt, QUrl, pyqtSignal, QThread
 from PyQt5.QtGui import QDesktopServices, QTextOption

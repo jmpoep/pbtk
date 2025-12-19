@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#-*- encoding: Utf-8 -*-
 from collections import OrderedDict, defaultdict
 from os.path import exists, dirname, realpath
 from google.protobuf.message import Message

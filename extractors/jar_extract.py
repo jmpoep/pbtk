@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#-*- encoding: Utf-8 -*-
 from google.protobuf.descriptor_pb2 import DescriptorProto, EnumDescriptorProto, FieldDescriptorProto
 from re import findall, MULTILINE, search, split, sub, escape, finditer
 from typing import Dict, List, Set, Sequence, Optional

@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#-*- encoding: Utf-8 -*-
 from urllib.parse import quote_plus, urlencode, parse_qsl, urlparse, unquote
 from utils.pburl_decoder import proto_url_encode, proto_url_decode
 from base64 import urlsafe_b64decode, urlsafe_b64encode

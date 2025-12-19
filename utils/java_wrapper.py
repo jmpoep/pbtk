@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#-*- encoding: Utf-8 -*-
 from re import findall, MULTILINE, search, finditer, split, sub
 from subprocess import run, DEVNULL, PIPE, TimeoutExpired
 from tempfile import TemporaryDirectory
